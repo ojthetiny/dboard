@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7n,C_0603_1608Metric,-13.3,-3.4,90.0,top
+D1,PRTR5V0U2X,SOT-143,-9.9,-7.4,0.0,top
+F1,Polyfuse,Fuse_0805_2012Metric,13.7625,-2.5,180.0,top
+J1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,0.0,-3.4,180.0,top
+J2,Conn_01x04_MountingPin,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,9.5,-5.5,0.0,top
+R1,5.1k,R_0603_1608Metric,-9.3,-3.6,-90.0,top
+R2,5.1k,R_0603_1608Metric,-7.5,-3.6,90.0,top
+R3,1M,R_0805_2012Metric,-11.2,-3.5125,90.0,top

@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+PRTR5V0U2X,D1,SOT-143,C12333
+Conn_01x04_MountingPin,J2,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,C160404
+USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
+1M,R3,R_0805_2012Metric,C17514
+5.1k,"R1,R2",R_0603_1608Metric,C23186
+4.7n,C1,C_0603_1608Metric,C53987
+Polyfuse,F1,Fuse_0805_2012Metric,C883103
+Mount-M2,MH2,MountingHole_2.2mm_M2_Pad_Via,
+Mount-M2,MH1,MountingHole_2.2mm_M2_Pad_Via,
